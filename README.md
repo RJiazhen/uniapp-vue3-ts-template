@@ -8,7 +8,7 @@ npx degit RJiazhen/uniapp-vue3-ts-template my-project
 ```
 将本仓库去除git配置后下载到本地，即可使用。
 
-如因为网络问题无法下载，可以点击[该链接](https://gitee.com/Rjiazhen/uniapp-vue3-ts-template/archive/refs/tags/v1.0.0.zip)直接下载gitee仓库代码，解压后删除.git文件夹即可使用。
+如因为网络问题无法下载，可以点击[该链接](https://gitee.com/Rjiazhen/uniapp-vue3-ts-template/releases/download/v1.0.0/uniapp-vue3-ts-template.zip)直接下载gitee仓库代码，解压后删除.git文件夹即可使用。
 
 ## ⏬ 运行
 
